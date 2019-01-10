@@ -1,0 +1,23 @@
+#coding:utf-8
+file = open('/home/yang/文档/98改 (复件).txt'  ,'r+')
+raw=file.readlines()
+#panduanchangdu
+length=len(raw)
+
+b=[]
+
+for i in range(length):
+    a=raw[i].split('	')
+    length_a=len(a)
+    if length_a<=2:
+      b.append(raw[i])
+    else:
+      for i1 in range(1,length_a):
+          b.append(a[0]+'	'+a[i1])
+file1=open('/home/yang/文档/test1.txt','w' )
+for i in range(len(b)):
+    if '\n' in b[i]:
+         file1.write(b[i].rstrip('\n')+'\t1\n')
+    else:
+         file1.write(b[i]+'\t1'+'\n')
+file1.close()
