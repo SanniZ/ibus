@@ -70439,4 +70439,6 @@ wwmw	侯佩岺	1
 dugp	大闹天空	1
 yify	永辉超市	1
 rukr	接听	1
+jflw	畅索软件	1
+tmwc	延峰伟士通	1
 END_TABLE
