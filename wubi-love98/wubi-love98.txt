@@ -70467,4 +70467,18 @@ pwhh	社保卡	1
 uevn	剃须刀	1
 tcot	智能座舱	1
 lbgg	车联天下	1
+qkyt	象州	1
+tfyw	长城诺创	1
+llwh	国企	1
+swia	松江	1
+siar	松江区	1
+miga	同润＊玫瑰芳苑	1
+ubdw	闻泰	1
+ddov	大唐	1
+batr	联芯科技	1
+yiai	京东	1
+rqqq	拼多多	1
+gmud	两个	1
+auuq	薪资	1
+ymce	高通	1
 END_TABLE
